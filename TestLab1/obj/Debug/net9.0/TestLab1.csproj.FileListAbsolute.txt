@@ -1,0 +1,15 @@
+X:\DP\TestLab1\bin\Debug\net9.0\TestLab1.exe
+X:\DP\TestLab1\bin\Debug\net9.0\TestLab1.deps.json
+X:\DP\TestLab1\bin\Debug\net9.0\TestLab1.runtimeconfig.json
+X:\DP\TestLab1\bin\Debug\net9.0\TestLab1.dll
+X:\DP\TestLab1\bin\Debug\net9.0\TestLab1.pdb
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.GeneratedMSBuildEditorConfig.editorconfig
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.AssemblyInfoInputs.cache
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.AssemblyInfo.cs
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.csproj.CoreCompileInputs.cache
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.sourcelink.json
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.dll
+X:\DP\TestLab1\obj\Debug\net9.0\refint\TestLab1.dll
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.pdb
+X:\DP\TestLab1\obj\Debug\net9.0\TestLab1.genruntimeconfig.cache
+X:\DP\TestLab1\obj\Debug\net9.0\ref\TestLab1.dll

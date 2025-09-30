@@ -1,0 +1,14 @@
+C:\DP\Lab2\Task4_NotCalled\bin\Debug\net8.0\Task4_NotCalled.exe
+C:\DP\Lab2\Task4_NotCalled\bin\Debug\net8.0\Task4_NotCalled.deps.json
+C:\DP\Lab2\Task4_NotCalled\bin\Debug\net8.0\Task4_NotCalled.runtimeconfig.json
+C:\DP\Lab2\Task4_NotCalled\bin\Debug\net8.0\Task4_NotCalled.dll
+C:\DP\Lab2\Task4_NotCalled\bin\Debug\net8.0\Task4_NotCalled.pdb
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.GeneratedMSBuildEditorConfig.editorconfig
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.AssemblyInfoInputs.cache
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.AssemblyInfo.cs
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.csproj.CoreCompileInputs.cache
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.dll
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\refint\Task4_NotCalled.dll
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.pdb
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\Task4_NotCalled.genruntimeconfig.cache
+C:\DP\Lab2\Task4_NotCalled\obj\Debug\net8.0\ref\Task4_NotCalled.dll

@@ -1,0 +1,14 @@
+C:\DP\Lab2\Task1_HelloJerry\bin\Debug\net8.0\Task1_HelloJerry.exe
+C:\DP\Lab2\Task1_HelloJerry\bin\Debug\net8.0\Task1_HelloJerry.deps.json
+C:\DP\Lab2\Task1_HelloJerry\bin\Debug\net8.0\Task1_HelloJerry.runtimeconfig.json
+C:\DP\Lab2\Task1_HelloJerry\bin\Debug\net8.0\Task1_HelloJerry.dll
+C:\DP\Lab2\Task1_HelloJerry\bin\Debug\net8.0\Task1_HelloJerry.pdb
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.GeneratedMSBuildEditorConfig.editorconfig
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.AssemblyInfoInputs.cache
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.AssemblyInfo.cs
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.csproj.CoreCompileInputs.cache
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.dll
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\refint\Task1_HelloJerry.dll
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.pdb
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\Task1_HelloJerry.genruntimeconfig.cache
+C:\DP\Lab2\Task1_HelloJerry\obj\Debug\net8.0\ref\Task1_HelloJerry.dll

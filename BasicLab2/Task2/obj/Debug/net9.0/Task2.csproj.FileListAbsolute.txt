@@ -1,0 +1,15 @@
+X:\DP\BasicLab2\Task2\bin\Debug\net9.0\Task2.exe
+X:\DP\BasicLab2\Task2\bin\Debug\net9.0\Task2.deps.json
+X:\DP\BasicLab2\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+X:\DP\BasicLab2\Task2\bin\Debug\net9.0\Task2.dll
+X:\DP\BasicLab2\Task2\bin\Debug\net9.0\Task2.pdb
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.dll
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\refint\Task2.dll
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.pdb
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+X:\DP\BasicLab2\Task2\obj\Debug\net9.0\ref\Task2.dll

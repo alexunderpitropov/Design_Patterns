@@ -1,0 +1,15 @@
+X:\DP\BasicLab2\Task1\bin\Debug\net9.0\Task1.exe
+X:\DP\BasicLab2\Task1\bin\Debug\net9.0\Task1.deps.json
+X:\DP\BasicLab2\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+X:\DP\BasicLab2\Task1\bin\Debug\net9.0\Task1.dll
+X:\DP\BasicLab2\Task1\bin\Debug\net9.0\Task1.pdb
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.sourcelink.json
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.dll
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\refint\Task1.dll
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.pdb
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+X:\DP\BasicLab2\Task1\obj\Debug\net9.0\ref\Task1.dll

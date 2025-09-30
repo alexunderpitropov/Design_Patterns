@@ -1,0 +1,14 @@
+C:\DP\Lab2\Task5_Order\bin\Debug\net8.0\Task5_Order.exe
+C:\DP\Lab2\Task5_Order\bin\Debug\net8.0\Task5_Order.deps.json
+C:\DP\Lab2\Task5_Order\bin\Debug\net8.0\Task5_Order.runtimeconfig.json
+C:\DP\Lab2\Task5_Order\bin\Debug\net8.0\Task5_Order.dll
+C:\DP\Lab2\Task5_Order\bin\Debug\net8.0\Task5_Order.pdb
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.AssemblyInfoInputs.cache
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.AssemblyInfo.cs
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.csproj.CoreCompileInputs.cache
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.dll
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\refint\Task5_Order.dll
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.pdb
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\Task5_Order.genruntimeconfig.cache
+C:\DP\Lab2\Task5_Order\obj\Debug\net8.0\ref\Task5_Order.dll

@@ -1,0 +1,14 @@
+C:\DP\Lab2\Task2_PrintABC\bin\Debug\net8.0\Task2_PrintABC.exe
+C:\DP\Lab2\Task2_PrintABC\bin\Debug\net8.0\Task2_PrintABC.deps.json
+C:\DP\Lab2\Task2_PrintABC\bin\Debug\net8.0\Task2_PrintABC.runtimeconfig.json
+C:\DP\Lab2\Task2_PrintABC\bin\Debug\net8.0\Task2_PrintABC.dll
+C:\DP\Lab2\Task2_PrintABC\bin\Debug\net8.0\Task2_PrintABC.pdb
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.AssemblyInfoInputs.cache
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.AssemblyInfo.cs
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.csproj.CoreCompileInputs.cache
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.dll
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\refint\Task2_PrintABC.dll
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.pdb
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\Task2_PrintABC.genruntimeconfig.cache
+C:\DP\Lab2\Task2_PrintABC\obj\Debug\net8.0\ref\Task2_PrintABC.dll

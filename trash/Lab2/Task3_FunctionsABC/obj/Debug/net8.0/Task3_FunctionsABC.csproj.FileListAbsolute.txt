@@ -1,0 +1,14 @@
+C:\DP\Lab2\Task3_FunctionsABC\bin\Debug\net8.0\Task3_FunctionsABC.exe
+C:\DP\Lab2\Task3_FunctionsABC\bin\Debug\net8.0\Task3_FunctionsABC.deps.json
+C:\DP\Lab2\Task3_FunctionsABC\bin\Debug\net8.0\Task3_FunctionsABC.runtimeconfig.json
+C:\DP\Lab2\Task3_FunctionsABC\bin\Debug\net8.0\Task3_FunctionsABC.dll
+C:\DP\Lab2\Task3_FunctionsABC\bin\Debug\net8.0\Task3_FunctionsABC.pdb
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.AssemblyInfoInputs.cache
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.AssemblyInfo.cs
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.csproj.CoreCompileInputs.cache
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.dll
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\refint\Task3_FunctionsABC.dll
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.pdb
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\Task3_FunctionsABC.genruntimeconfig.cache
+C:\DP\Lab2\Task3_FunctionsABC\obj\Debug\net8.0\ref\Task3_FunctionsABC.dll
