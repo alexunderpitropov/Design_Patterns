@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!"); //statement
+﻿Console.WriteLine("Hello, World!"); 
 Thread.Sleep(1000);
 Console.WriteLine("Hello, Sasha!"); 
 Thread.Sleep(1000);
