@@ -1,0 +1,15 @@
+X:\DP\BasicLab5\bin\Debug\net9.0\BasicLab5.exe
+X:\DP\BasicLab5\bin\Debug\net9.0\BasicLab5.deps.json
+X:\DP\BasicLab5\bin\Debug\net9.0\BasicLab5.runtimeconfig.json
+X:\DP\BasicLab5\bin\Debug\net9.0\BasicLab5.dll
+X:\DP\BasicLab5\bin\Debug\net9.0\BasicLab5.pdb
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.GeneratedMSBuildEditorConfig.editorconfig
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.AssemblyInfoInputs.cache
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.AssemblyInfo.cs
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.csproj.CoreCompileInputs.cache
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.sourcelink.json
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.dll
+X:\DP\BasicLab5\obj\Debug\net9.0\refint\BasicLab5.dll
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.pdb
+X:\DP\BasicLab5\obj\Debug\net9.0\BasicLab5.genruntimeconfig.cache
+X:\DP\BasicLab5\obj\Debug\net9.0\ref\BasicLab5.dll
